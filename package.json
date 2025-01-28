@@ -1,0 +1,13 @@
+{
+  "name": "telegram-web-client",
+  "version": "1.0.0",
+  "description": "A simple Telegram web client using Node.js, Express, and node-telegram-bot-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
